@@ -1,0 +1,6 @@
+@SchoolRedisManagement_HostAddress = http://localhost:5274
+
+GET {{SchoolRedisManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolRedisManagement", "SchoolRedisManagement\SchoolRedisManagement.csproj", "{D98BBE6E-7F9E-453E-9046-4DF212DBA6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98BBE6E-7F9E-453E-9046-4DF212DBA6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98BBE6E-7F9E-453E-9046-4DF212DBA6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98BBE6E-7F9E-453E-9046-4DF212DBA6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98BBE6E-7F9E-453E-9046-4DF212DBA6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC76C667-C7D4-4522-819C-0E22D1B614E3}
+	EndGlobalSection
+EndGlobal
